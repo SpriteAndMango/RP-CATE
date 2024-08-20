@@ -1,5 +1,5 @@
 import tensorflow as tf
-from Github.RP_CATE.model.Channel_Attention_Module import ChannelAttentionModule
+from RP_CATE.model.Channel_Attention_Module import ChannelAttentionModule
 
 
 
