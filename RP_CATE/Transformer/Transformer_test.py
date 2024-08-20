@@ -1,6 +1,6 @@
 import torch.nn as nn
 from utils import *
-from Github.RP_CATE.dataset.dataset import DatasetProcessor
+from RP_CATE.dataset.dataset import DatasetProcessor
 
 
 
