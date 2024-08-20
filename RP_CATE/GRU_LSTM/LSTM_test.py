@@ -1,5 +1,5 @@
 import tensorflow as tf
-from Github.RP_CATE.dataset.dataset import DatasetProcessor
+from RP_CATE.dataset.dataset import DatasetProcessor
 
 
 
