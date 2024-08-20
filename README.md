@@ -22,25 +22,16 @@ The repository includes the execution of all the following benchmarks.
 * Radial Basis Fucntional Neural Network (RBFNN)
 * Gated Recurrent Unit (GRU)
 * Long Short Term Memory (LSTM)
-* Temporal Convolutional Networks (TCN)[1](https://arxiv.org/abs/1803.01271)
-* Transformer[2]
+* [Temporal Convolutional Networks (TCN)](https://github.com/locuslab/TCN/tree/master?tab=readme-ov-file)[1]
+* [Transformer](https://github.com/tensorflow/tensor2tensor)[2]
 
 
 ## Reference
 
 ```bibtex
-@article{bai2018empirical,
-  title={An empirical evaluation of generic convolutional and recurrent networks for sequence modeling},
-  author={Bai, Shaojie and Kolter, J Zico and Koltun, Vladlen},
-  journal={arXiv preprint arXiv:1803.01271},
-  year={2018}
-}
+[1] Bai, S., Kolter, J. Z., & Koltun, V. (2018). An empirical evaluation of generic convolutional and recurrent networks for sequence modeling. arXiv preprint arXiv:1803.01271.
 
-@article{vaswani2017attention,
-  title={Attention is all you need},
-  author={Vaswani, Ashish},
-  journal={arXiv preprint arXiv:1706.03762},
-  year={2017}
-}
+[2] Vaswani, A. (2017). Attention is all you need. arXiv preprint arXiv:1706.03762.
+
 
 
