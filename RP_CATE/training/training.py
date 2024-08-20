@@ -1,5 +1,5 @@
 import tensorflow as tf
-from RP_CATE.model.RPCATE import RP_CATE
+from Github.RP_CATE.model.RPCATE import RP_CATE
 
 
 

@@ -1,5 +1,5 @@
 import tensorflow as tf
-from RP_CATE.model.Cyclic_Sliding_Window import CyclicSlidingWindowsProcessor
+from Github.RP_CATE.model.Cyclic_Sliding_Window import CyclicSlidingWindowsProcessor
 
 class ChannelAttentionModule(tf.keras.layers.Layer):
     def __init__(self, channel_num,windows,seed,expansion_ratio=3):

@@ -1,5 +1,5 @@
 import tensorflow as tf
-from RP_CATE.tools.return_test_attention import AttentionProcessor
+from Github.RP_CATE.tools.return_test_attention import AttentionProcessor
 
 
 class RPCATEForward:
