@@ -22,18 +22,11 @@ The repository includes the execution of all the following benchmarks.
 * Radial Basis Fucntional Neural Network (RBFNN)
 * Gated Recurrent Unit (GRU)
 * Long Short Term Memory (LSTM)
-* Temporal Convolutional Networks (TCN)[1]
+* Temporal Convolutional Networks (TCN)[1](https://arxiv.org/abs/1803.01271)
 * Transformer[2]
 
 
 ## Reference
-```bibtex
-@article{vaswani2017attention,
-  title={Attention is all you need},
-  author={Vaswani, Ashish},
-  journal={arXiv preprint arXiv:1706.03762},
-  year={2017}
-}
 
 ```bibtex
 @article{bai2018empirical,
@@ -42,3 +35,12 @@ The repository includes the execution of all the following benchmarks.
   journal={arXiv preprint arXiv:1803.01271},
   year={2018}
 }
+
+@article{vaswani2017attention,
+  title={Attention is all you need},
+  author={Vaswani, Ashish},
+  journal={arXiv preprint arXiv:1706.03762},
+  year={2017}
+}
+
+
