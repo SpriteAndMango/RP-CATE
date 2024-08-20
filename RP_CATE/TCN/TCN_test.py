@@ -1,5 +1,5 @@
 import torch
-from Github.RP_CATE.dataset.dataset import DatasetProcessor
+from RP_CATE.dataset.dataset import DatasetProcessor
 from utils import set_seed,CyclicSlidingWindowsProcessor
 import torch.nn.functional as F
 import torch.nn as nn
